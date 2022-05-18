@@ -22,7 +22,7 @@ interests:
   - 
   - 
   - 
-
+  
 # Education to show in About widget
 education:
   courses:
