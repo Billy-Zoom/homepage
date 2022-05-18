@@ -90,10 +90,6 @@ features:
       api_key: ''
       index_name: ''
       show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
 
 # Extensions
 
